@@ -35,7 +35,7 @@ app.get('/assignment', (req, res) => {
         res.send(data);
     })
     .catch(error=>{
-        res.status(500).send(`There is some error ${error}`)
+        res.status(500).send(`There is some internal server error Error Message is - ${error}`)
     })
 });
 
