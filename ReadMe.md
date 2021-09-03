@@ -11,4 +11,9 @@ Test image 1
 <img src="https://github.com/somil24/github-scraper/blob/master/images/Screenshot%20(152).png"
      alt="test image"
      style="float: left; margin-right: 10px;" />
+     
+ Result
+ <img src="https://github.com/somil24/github-scraper/blob/master/images/Screenshot%20(153).png"
+     alt="result image"
+     style="float: left; margin-right: 10px;" />
 
